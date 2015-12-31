@@ -46,3 +46,17 @@ This plugin is still in a very early stage, here is a TODO list to show you a si
 - If you have __anything__ want to talk, feel free to raise an issue or say hello on Twitter to [@wangshengjia](https://twitter.com/wangshengjia), on Weibo to [@ShengjiaWang](http://www.weibo.com/1739447693/profile?topnav=1&wvr=6&is_all=1)
 
 Enjoy :tada::tada:
+
+
+
+
+
+###项目记录
+1,项目是XCode插件,用于将选中行运行(有输出时可以在xcode命令行输出)
+2,实现原理大概是将选中行写到一个swift文件中,并运行
+3,为什么可以在xcode输出暂时不知道
+4,项目中大量可以参考的函数
+
+
+
+
